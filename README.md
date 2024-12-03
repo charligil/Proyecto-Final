@@ -1,5 +1,4 @@
-#  💪 Beto Gym & Responsive Gym Website Design
-### 💪 Responsive Gym Website Design
+#  💪 Beto Gym 
 
 - Diseño de sitio web de gimnasio responsivo con HTML CSS y JavaScript
 - Contiene animaciones al hacer scroll.
