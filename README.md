@@ -1,14 +1,12 @@
-#  💪 Responsive Gym Website Design
-## [Watch it on youtube](https://youtu.be/ddaY0rHqMxM)
+#  💪 Beto Gym & Responsive Gym Website Design
 ### 💪 Responsive Gym Website Design
 
-- Responsive Gym Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Includes a form to calculate body mass index.
-- Includes a form to send emails.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Diseño de sitio web de gimnasio responsivo con HTML CSS y JavaScript
+- Contiene animaciones al hacer scroll.
+- Incluye un formulario para calcular el índice de masa corporal.
+- Incluye un formulario para enviar correos electrónicos.
+- Desarrollado primero con la metodología Mobile First, luego para escritorio.
+- Compatible con todos los dispositivos móviles y con una interfaz de usuario hermosa y agradable.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
